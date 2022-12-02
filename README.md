@@ -1,7 +1,5 @@
 # Facebook Bot
-‌Auto Commenter
-‌‌‌
-Auto Sharer
+‌Auto Commenter & Auto Sharer
 
 # Commands
 
